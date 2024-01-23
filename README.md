@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="css/kodluyoruz1.css">
 </head>
 <body>
-    <article>
+
+    
+
+
+    <article id="first-article">
         <h1>Lorem, ipsum dolor.</h1>
         <h2>Lorem, ipsum.</h2>
         <p>Lorem ipsum dolor sit.</p>
@@ -29,6 +33,36 @@
         <p>Ratione eveniet ab dolor.</p>
     </article>
    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </body>
@@ -41,6 +75,10 @@
 /* class -> .  .text-red {} */
 /*  id -> #id-bilgisi {} */
 
+#first-article { 
+
+font-size:40px;}
+ 
 .text-red {
      color: red ;  
 }
